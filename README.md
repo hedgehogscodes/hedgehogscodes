@@ -41,7 +41,7 @@
 </div>
 
 <div>
-</br>
+<br>
 <p align="center">
   <img  src="https://github.com/hedgehogscods/hedgehogscods/blob/main/assets/CraftyRichEthiopianwolf-mobile.gif"/>
 </p>
