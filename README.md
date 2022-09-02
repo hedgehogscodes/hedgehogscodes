@@ -3,6 +3,6 @@
 <h3 align="center">Я студент программной инженерии, FRONT-END разработчик со знаниями BACK-END разработки</h3>
 
 
-<img align="center" src="https://github.com/hedgehogscods/hedgehogscods/blob/main/assets/CraftyRichEthiopianwolf-mobile.gif"/>
+<img margin="auto" src="https://github.com/hedgehogscods/hedgehogscods/blob/main/assets/CraftyRichEthiopianwolf-mobile.gif"/>
 
 [![Header](https://github.com/hedgehogscods/hedgehogscods/blob/main/assets/CraftyRichEthiopianwolf-mobile.gif)](https://vk.com/heritage57)
