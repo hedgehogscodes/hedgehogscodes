@@ -1,9 +1,11 @@
-<h1 align="center">Привет всем, меня зовут <a href="https://vk.com/heritage57" target="_blank">Жора</a> 
+<h1 align="center">📌 Привет всем, меня зовут <a href="https://vk.com/heritage57" target="_blank">Жора</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 width="100%">Я студент программной инженерии, FRONT-END разработчик со знаниями BACK-END разработки</h3>
 
+
+
 <div>
-<h2>Мой стек:</h2>
+<h2>🛠 Мой стек:</h2>
 <img src="https://img.shields.io/badge/html5-090909.svg?style=for-the-badge&logo=html5&logoColor=#FF4500" />
 <img src="https://img.shields.io/badge/css3-090909.svg?style=for-the-badge&logo=css3&logoColor=0000FF" />
 <img src="https://img.shields.io/badge/javascript-090909.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -25,7 +27,7 @@
 <img src="https://img.shields.io/badge/QT-090909.svg?style=for-the-badge&logo=qt&logoColor=#4682B4" />
 </div>
 
-<h2>Как со мной связаться:</h2>
+<h2>📞 Как со мной связаться:</h2>
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/duxovcavdtanem)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/heritage_arm)
@@ -33,12 +35,13 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/zhor.pogosyan.7/)
 
 <div>
-  <h2>Моя статистика:</h2>
+  <h2>📈 Моя статистика:</h2>
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=hedgehogscodes" />
   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedgehogscodes&layout=compact" />
 </div>
 
 <div>
+</br>
 <p align="center">
   <img  src="https://github.com/hedgehogscods/hedgehogscods/blob/main/assets/CraftyRichEthiopianwolf-mobile.gif"/>
 </p>
