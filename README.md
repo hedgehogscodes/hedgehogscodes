@@ -3,7 +3,6 @@
 <h3 width="100%">Я студент программной инженерии, FRONT-END разработчик со знаниями BACK-END разработки</h3>
 
 
-
 <div>
 <h2>🛠 Мой стек:</h2>
 <img src="https://img.shields.io/badge/html5-090909.svg?style=for-the-badge&logo=html5&logoColor=#FF4500" />
@@ -41,7 +40,7 @@
 </div>
 
 <div>
-<br>
+<h2></h2>
 <p align="center">
   <img  src="https://github.com/hedgehogscods/hedgehogscods/blob/main/assets/CraftyRichEthiopianwolf-mobile.gif"/>
 </p>
