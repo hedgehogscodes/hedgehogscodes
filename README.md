@@ -22,7 +22,6 @@
 <img src="https://img.shields.io/badge/python-090909.svg?style=for-the-badge&logo=python&logoColor=00648B" />
 <img src="https://img.shields.io/badge/Opengl-090909.svg?style=for-the-badge&logo=Opengl&logoColor=#4682B4" />
 
-
 <img src="https://img.shields.io/badge/webpack-090909.svg?style=for-the-badge&logo=webpack&logoColor=#87CEEB" />
 <img src="https://img.shields.io/badge/git-090909.svg?style=for-the-badge&logo=git&logoColor=#FF0000" />
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-090909.svg?style=for-the-badge&logo=visual-studio-code&logoColor=00BFFF" />
