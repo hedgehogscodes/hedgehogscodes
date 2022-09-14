@@ -1,4 +1,4 @@
-<h1 align="center">📌 Привет всем, меня зовут <a href="https://t.me/duxovcavdtanem" target="_blank">Жора</a> 
+<h1 align="center">📌 Привет всем, меня зовут <a href="https://t.me/heritage_arm" target="_blank">Жора</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 width="100%">Я студент программной инженерии, FRONT-END разработчик со знаниями BACK-END разработки</h3>
 
@@ -33,7 +33,7 @@
 
 <h2>📞 Как со мной связаться:</h2>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/duxovcavdtanem)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/heritage_arm)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/heritage_arm)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/heritage57)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/zhor.pogosyan.7/)
