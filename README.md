@@ -41,6 +41,7 @@
 <div>
   <h2>📈 Моя статистика:</h2>
   <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=hedgehogscodes" />
+   <h2></h2>
   <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hedgehogscodes&layout=compact" />
 </div>
 
