@@ -39,7 +39,7 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/zhor.pogosyan.7/)
 
 <h2>📈 Моя статистика:</h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedgehogscodes&theme=react&show_icons=true&hide_border=true&hide=stars,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedgehogscodes&theme=react&show_icons=true&hide_border=true&hide=stars,issues);
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedgehogscodes&theme=react&layout=compact&hide_border=true&card_width=445)](https://github.com/hedgehogscodes)
   
 <div>
