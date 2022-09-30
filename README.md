@@ -41,7 +41,7 @@
 <h2>📈 Моя статистика:</h2>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedgehogscodes&theme=react&show_icons=true&hide_border=true&hide=stars,issues);
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hedgehogscodes&theme=react&show_icons=true&hide_border=true&hide=stars,issues)&emsp;&emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedgehogscodes&theme=react&layout=compact&hide_border=true&card_width=445)](https://github.com/hedgehogscodes)
   
 <div>
