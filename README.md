@@ -38,11 +38,10 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/heritage57)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/zhor.pogosyan.7/)
 
-<div>
-  <h2>📈 Моя статистика:</h2>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hedgehogscodes&theme=react&show_icons=true&hide_border=true&hide=stars,issues)&emsp;&emsp;
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedgehogscodes&theme=react&layout=compact&hide_border=true&card_width=445)]     (https://github.com/hedgehogscodes)
-</div>
+<h2>📈 Моя статистика:</h2>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hedgehogscodes&theme=react&show_icons=true&hide_border=true&hide=stars,issues)&emsp;&emsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedgehogscodes&theme=react&layout=compact&hide_border=true&card_width=445)](https://github.com/hedgehogscodes)
+  
 <div>
 <p align="center">
   <img  src="https://github.com/hedgehogscods/hedgehogscods/blob/main/assets/CraftyRichEthiopianwolf-mobile.gif"/>
