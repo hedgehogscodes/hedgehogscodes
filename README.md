@@ -45,7 +45,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hedgehogscodes&theme=react&layout=compact&hide_border=true&card_width=445)](https://github.com/hedgehogscodes)
   
 <div>
-<p align="center">
+<p>
   <img  src="https://github.com/hedgehogscods/hedgehogscods/blob/main/assets/CraftyRichEthiopianwolf-mobile.gif"/>
 </p>
 </div>
